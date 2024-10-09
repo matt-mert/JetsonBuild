@@ -187,4 +187,4 @@ https://www.youtube.com/@paulmcwhorter
 
 ## Author
 
-matt-mert, Mert Kucukakinci
+[matt-mert](https://github.com/matt-mert/)
