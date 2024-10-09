@@ -185,6 +185,6 @@ https://github.com/dusty-nv/jetson-inference
 
 https://www.youtube.com/@paulmcwhorter
 
-## Reference
+## Author
 
-Mert Kucukakinci
+matt-mert, Mert Kucukakinci
